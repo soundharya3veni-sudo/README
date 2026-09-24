@@ -87,8 +87,8 @@ To become a strong software developer by building real-world projects, strengthe
 
 ## 📊 Coding Profiles
 
-- [LeetCode](YOUR_LEETCODE_LINK)
-- [HackerRank](YOUR_HACKERRANK_LINK)
+- [LeetCode]https://leetcode.com/u/LDKgGQW1Kc/
+- [HackerRank]https://www.hackerrank.com/profile/soundharya3veni
 
 ---
 
