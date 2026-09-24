@@ -1,115 +1,99 @@
-👋 Hi, I'm Soundharya
-💻 CSE Student | Java & Python | DSA | Problem Solver
+# 👋 Hi, I'm Soundharya
 
-I'm a 2nd-year Computer Science and Engineering student passionate about programming, problem solving, and building useful projects.
+---
 
-Currently, I'm strengthening my skills in Python, Java, Data Structures & Algorithms and preparing myself for software development opportunities and placements.
+## 🚀 What I Build
 
-🚀 What I Do
-💡 Practice Data Structures & Algorithms
-☕ Solve problems using Java
-🐍 Learning and building with Python
-🧠 Improve logical thinking through coding
-🌱 Build projects that solve real-world problems
-🎯 Focused on becoming placement-ready
-🔨 Featured Projects
-🎓 Career Track AI
+I build practical software and AI-driven projects focused on solving real-world problems.  
+My current focus is on Python, Java, Data Structures & Algorithms, and AI-powered applications.
 
-A student-focused career guidance project designed to help students who are confused about choosing a career path.
+I enjoy turning ideas into working solutions, solving coding problems, and continuously improving my development skills.
 
-It uses student interests and course information to suggest suitable areas of interest.
+> "Learn consistently. Build purposefully. Solve creatively."
 
-Focus: AI • Student Guidance • Career Exploration
+---
 
-🌱 Sprout Watch
+## 🛠️ Featured Projects
 
-An agriculture-focused project designed to help farmers monitor plant growth using IoT sensors.
+### 🤖 Career Track AI — AI-Powered Student Guidance
 
-The project aims to make plant monitoring easier by collecting useful information about plant conditions.
+A student-focused platform designed to help students who are confused about choosing a suitable career or learning path.
 
-Focus: IoT • Agriculture • Smart Monitoring
+It uses student interests and course-related information to suggest relevant areas of interest and provide clearer direction.
 
-🧠 My Coding Journey
-⭐ HackerRank 5-Star
-🏅 HackerRank Java Basic Badge
-🧩 130+ LeetCode Problems Solved
-💻 Regular DSA Problem Solving
-🔥 Consistent coding practice
-📚 Learning Python from fundamentals to problem solving
-🛠️ Tech Stack
-👨‍💻 Programming
+**Python • AI • Problem Solving**
 
-C Java Python
+---
 
-🌐 Web
+### 🌱 Sprout Watch — Smart Agriculture Project
 
-HTML CSS
+An IoT-based project designed to help farmers monitor plant growth and agricultural conditions using sensors.
 
-🗄️ Database
+The project focuses on using technology to make plant monitoring more efficient and useful for farmers.
 
-MongoDB
+**IoT • Sensors • Python • Smart Agriculture**
 
-🧩 Problem Solving
+---
 
-Data Structures & Algorithms
-LeetCode
-HackerRank
+## 💻 Coding Journey
 
-🔧 Tools
+- ⭐ HackerRank 5-Star
+- 🏆 HackerRank Java Basic
+- 🔥 130+ LeetCode Problems Solved
+- 📚 Consistently practicing Data Structures & Algorithms
+- 🚀 Building projects while strengthening programming fundamentals
 
-Git GitHub VS Code
+---
 
-📚 Currently Learning
-Python
- ├── Fundamentals
- ├── Logic Building
- ├── Problem Solving
- └── DSA
+## 🧰 Tech I Work With
 
-Java
- ├── DSA
- ├── Problem Solving
- └── Competitive Programming
+**Languages**
 
-Career Preparation
- ├── Aptitude
- ├── Coding
- ├── Projects
- └── Interview Preparation
-🎯 My Goal
+`Python` `Java` `C`
 
-Learn consistently. Build meaningful projects. Solve better problems. Become placement-ready.
+**Web**
 
-My current goal is to continuously improve my technical skills and be ready for software development opportunities by the end of my 3rd year.
+`HTML` `CSS`
 
-🏆 Achievements
-⭐ HackerRank 5-Star
-🏅 Java Basic Badge
-🧩 130+ LeetCode Problems
-🚀 Built student-focused and agriculture-focused projects
-📜 MasterClaude AI Certificate
-🌍 Participated in world record events
-💡 Inspire 26
-📈 What I'm Working On Right Now
-🐍 Strengthening Python fundamentals
-🧠 Improving logical thinking
-💻 Solving DSA problems regularly
-☕ Improving Java problem solving
-🚀 Building better projects
-🎯 Preparing for placements
-🤝 Let's Connect
+**Database**
 
-I'm always interested in learning, building, collaborating, and improving.
+`MongoDB`
 
-Keep Learning • Keep Coding • Keep Building 🚀
+**Problem Solving**
 
-💙 A little reminder
-Don't compare your beginning
-with someone else's progress.
+`Data Structures` `Algorithms` `LeetCode` `HackerRank`
 
-Learn.
-Practice.
-Build.
-Repeat. 🚀
+**AI / Projects**
 
-#️⃣ #Python #Java #DSA #CSE #LeetCode #HackerRank #Coding   
+`AI` `IoT`
+
+---
+
+## 🌱 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Problem Solving
+- AI-powered application development
+- Software development fundamentals
+
+---
+
+## 🎯 My Goal
+
+To become a strong software developer by building real-world projects, strengthening problem-solving skills, and continuously learning new technologies.
+
+---
+
+## 📊 Coding Profiles
+
+- [LeetCode](YOUR_LEETCODE_LINK)
+- [HackerRank](YOUR_HACKERRANK_LINK)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building, collaborating, and exploring new ideas in technology.
+
+**Build. Learn. Solve. Repeat.**
